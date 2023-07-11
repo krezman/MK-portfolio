@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# Matthew Krzemien's Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my porfolio's github! This is just a quick index of some of the links to some of the projects i've worked on.
 
-## Available Scripts
+## My Projects
 
-In the project directory, you can run:
+### [Brick Breaker](https://krezman.github.io/General-Assembly-Project-1/)
 
-### `npm start`
+https://i.imgur.com/0XQCwOj.png
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+#### [Github Repo](https://github.com/krezman/General-Assembly-Project-1)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### [Reel Reviews](https://reel-reviews103.herokuapp.com/)
 
-### `npm test`
+https://i.imgur.com/yZegEhJ.png
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### [Github Repo](https://github.com/krezman/GA-Project-2)
 
-### `npm run build`
+### [Swipe Leftovers](https://swipeleftovers-real-frontend.herokuapp.com/")
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+https://i.imgur.com/4QG5rA2.png
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#### [Github Repo (Backend)](https://github.com/bandit-dynamic/SwipeLeftovers-backend)
+#### [Github Repo (Frontend)](https://github.com/bandit-dynamic/SwipeLeftovers-frontend)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### [Your Day](https://yourday.herokuapp.com/")
 
-### `npm run eject`
+https://i.imgur.com/avFhsdN.png
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#### [Github Repo (Backend)](https://github.com/krezman/capstone-frontend)
+#### [Github Repo (Frontend)](https://github.com/krezman/capstone-frontend)
